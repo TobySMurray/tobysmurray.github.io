@@ -29,6 +29,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+	footer {
+		padding-top: 2rem;
+	}
+
 body {
 	line-height: 1;
 }
