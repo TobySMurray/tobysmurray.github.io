@@ -3550,7 +3550,7 @@ input, select, textarea {
 				-moz-flex-direction: column-reverse;
 				-webkit-flex-direction: column-reverse;
 				-ms-flex-direction: column-reverse;
-				flex-direction: column-reverse;
+				flex-direction: column;
 				text-align: center;
 			}
 
@@ -3580,7 +3580,7 @@ input, select, textarea {
 		}
 
 		.banner.style1.fullscreen {
-			min-height: 100vh;
+			min-height: 65vh;
 		}
 
 			@media screen and (orientation: portrait) {
